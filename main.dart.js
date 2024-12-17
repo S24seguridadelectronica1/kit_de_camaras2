@@ -54700,7 +54700,7 @@ this.c.aa(t.Cu).f.IL(B.FO)},
 R(a){var s,r=null,q=A.at(a)
 this.a.toString
 s=t.nA
-return new A.t2(new A.oL(new A.hW("Kit de c\xe1maras de seguridad",r,r,r,r),q.ax.b,new A.Gn(r,r,1/0,56),r),new A.e6(B.xF,A.a5o(A.b([new A.qo(A.ajg(r,r,new A.oO("assets/images/1.png",r,r)),150,150,B.uP,r),B.FE,A.a8j(A.ag8(A.b([B.KD,B.FF,B.KB,B.FG,new A.yP(this.gRd(),r,r,r,A.agV(r,r,B.bN,r,r,r,r,r,r,B.j,r,r,B.xH,r,r,r,r,r,r),r,r,!1,r,r,B.KA,r)],s),B.b3,B.fC))],s),B.b4,B.fC,B.cF),r),r)}}
+return new A.t2(new A.oL(new A.hW("Kit de c\xe1maras de seguridad",r,r,r,r),q.ax.b,new A.Gn(r,r,1/0,56),r),new A.e6(B.xF,A.a5o(A.b([new A.qo(A.ajg(r,r,new A.oO("assets/images/1.png",r,r)),450,450,B.uP,r),B.FE,A.a8j(A.ag8(A.b([B.KD,B.FF,B.KB,B.FG,new A.yP(this.gRd(),r,r,r,A.agV(r,r,B.bN,r,r,r,r,r,r,B.j,r,r,B.xH,r,r,r,r,r,r),r,r,!1,r,r,B.KA,r)],s),B.b3,B.fC))],s),B.b4,B.fC,B.cF),r),r)}}
 A.LR.prototype={}
 A.PL.prototype={}
 A.PM.prototype={}
