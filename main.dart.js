@@ -83982,7 +83982,7 @@ M(a){var s=null
 return new A.A6(B.Es,"Mi Aplicaci\xf3n",A.v8(s,A.axS(B.ac,s,s,B.d0),!0),s)}}
 A.L5.prototype={
 M(a){var s=null,r=A.aW(a,s,t.w).w,q=A.a3(a)
-return A.aeF(new A.xi(B.SG,q.ax.b,new A.Uq(s,s,1/0,56),s),s,A.aAB(new A.l6(new A.a63("assets/images/your_image.png",r.a.a),s),B.cr))}}
+return A.aeF(new A.xi(B.SG,q.ax.b,new A.Uq(s,s,1/0,56),s),s,A.aAB(new A.l6(new A.a63("assets/images/1.png",r.a.a),s),B.cr))}}
 A.a63.prototype={
 $2(a,b){var s=this.a,r=t.p,q=this.b*0.5
 if(b.b>800)return A.cl(A.b([A.hn(A.b([A.eb(s,B.aU,q,q),B.Nr,B.E6],r),B.U,B.hh,B.x),B.N,B.lk,B.N,B.tO,B.N,B.n2,B.N,B.lN,B.N,B.n1,B.N,B.mw,B.N,B.lc,B.N,B.n0,B.N,B.zl,B.N,B.lp,B.N,B.lM,B.N,B.tV,B.N,B.xz,B.N,B.n_,B.N,B.tJ,B.N,B.nB],r),B.U,B.u,B.x)
