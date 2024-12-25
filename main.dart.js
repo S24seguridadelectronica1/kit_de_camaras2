@@ -84000,9 +84000,9 @@ return A.cf(A.b([A.bx("Beneficios del Kit de C\xe1maras",s,s,s,A.bB(s,s,s,s,s,s,
 A.IG.prototype={
 M(a){return new A.ch(B.cs,new A.l6(new A.a_w(A.aW(a,null,t.w).w.a.a),null),null)}}
 A.a_w.prototype={
-$2(a,b){var s="Borneras",r=null,q="Las borneras se utilizan para la conexi\xf3n y distribuci\xf3n de cables el\xe9ctricos, garantizando una conexi\xf3n segura y ordenada.",p=this.a,o=t.p
-if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT("assets/images/23.webp",B.aV,p*0.3,p*0.4)),B.dN,A.eX(A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,p*0.05,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p*0.04,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.V,B.t,B.w))],o),B.S,B.t,B.w)
-else return A.cf(A.b([A.kG(A.e9(8),A.dT("assets/23.webp",B.aV,p*0.5,p*0.8)),B.aD,A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,p*0.06,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),B.af,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p*0.045,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.af,r)],o),B.V,B.t,B.w)],o),B.S,B.t,B.w)},
+$2(a,b){var s="assets/images/23.webp",r="Borneras",q=null,p="Las borneras se utilizan para la conexi\xf3n y distribuci\xf3n de cables el\xe9ctricos, garantizando una conexi\xf3n segura y ordenada.",o=this.a,n=t.p
+if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT(s,B.aV,o*0.3,o*0.4)),B.dN,A.eX(A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,o*0.05,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o*0.04,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],n),B.V,B.t,B.w))],n),B.S,B.t,B.w)
+else return A.cf(A.b([A.kG(A.e9(8),A.dT(s,B.aV,o*0.5,o*0.8)),B.aD,A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,o*0.06,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),B.af,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o*0.045,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.af,q)],n),B.V,B.t,B.w)],n),B.S,B.t,B.w)},
 $S:80}
 A.IP.prototype={
 M(a){return new A.ch(B.cs,new A.l6(new A.a_R(A.aW(a,null,t.w).w.a.a),null),null)}}
@@ -84138,9 +84138,9 @@ $S:506}
 A.KO.prototype={
 M(a){return new A.ch(B.cs,new A.l6(new A.a4M(A.aW(a,null,t.w).w.a.a),null),null)}}
 A.a4M.prototype={
-$2(a,b){var s="Accesorios del Kit",r=null,q="Los accesorios del kit incluyen cables, conectores, soportes y m\xe1s, dise\xf1ados para garantizar una instalaci\xf3n completa y funcional.",p=this.a,o=t.p
-if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT("assets/images/21.webp",B.aV,p*0.3,p*0.4)),B.dN,A.eX(A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,p*0.05,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p*0.04,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.V,B.t,B.w))],o),B.S,B.t,B.w)
-else return A.cf(A.b([A.kG(A.e9(8),A.dT("assets/21.webp",B.aV,p*0.5,p*0.8)),B.aD,A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,p*0.06,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),B.af,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p*0.045,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.af,r)],o),B.V,B.t,B.w)],o),B.S,B.t,B.w)},
+$2(a,b){var s="assets/images/21.webp",r="Accesorios del Kit",q=null,p="Los accesorios del kit incluyen cables, conectores, soportes y m\xe1s, dise\xf1ados para garantizar una instalaci\xf3n completa y funcional.",o=this.a,n=t.p
+if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT(s,B.aV,o*0.3,o*0.4)),B.dN,A.eX(A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,o*0.05,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o*0.04,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],n),B.V,B.t,B.w))],n),B.S,B.t,B.w)
+else return A.cf(A.b([A.kG(A.e9(8),A.dT(s,B.aV,o*0.5,o*0.8)),B.aD,A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,o*0.06,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),B.af,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o*0.045,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.af,q)],n),B.V,B.t,B.w)],n),B.S,B.t,B.w)},
 $S:80}
 A.KQ.prototype={
 M(a){var s,r,q=null,p=t.w,o=A.aW(a,q,p).w.a.a
@@ -84197,10 +84197,10 @@ return A.t3(A.bx("\xa1P\xeddelo ahora, P\xe1galo en casa!",q,q,q,A.bB(q,q,B.k,q,
 A.MV.prototype={
 M(a){return new A.ch(B.cs,new A.l6(new A.ach(A.aW(a,null,t.w).w.a.a),null),null)}}
 A.ach.prototype={
-$2(a,b){var s="Precio del Producto",r=null,q="Este producto tiene un precio competitivo, con opciones de pago flexibles y garant\xeda extendida.",p=this.a,o=t.p,n=p*0.4,m=p*0.3,l=p*0.05
-p*=0.04
-if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT("assets/images/1.webp",B.aV,m,n)),B.dN,A.eX(A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,l,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.V,B.t,B.w))],o),B.S,B.t,B.w)
-else return A.fG(A.b([A.kG(A.e9(8),A.dT("assets/precio.png",B.aV,m,n)),B.dN,A.eX(A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,l,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.V,B.t,B.w))],o),B.S,B.t,B.w)},
+$2(a,b){var s="assets/images/1.webp",r="Precio del Producto",q=null,p="Este producto tiene un precio competitivo, con opciones de pago flexibles y garant\xeda extendida.",o=this.a,n=t.p,m=o*0.4,l=o*0.3,k=o*0.05
+o*=0.04
+if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT(s,B.aV,l,m)),B.dN,A.eX(A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,k,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],n),B.V,B.t,B.w))],n),B.S,B.t,B.w)
+else return A.fG(A.b([A.kG(A.e9(8),A.dT(s,B.aV,l,m)),B.dN,A.eX(A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,k,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],n),B.V,B.t,B.w))],n),B.S,B.t,B.w)},
 $S:507}
 A.q8.prototype={
 ao(){var s=$.av()
@@ -84249,9 +84249,9 @@ $S:0}
 A.PF.prototype={
 M(a){return new A.ch(B.cs,new A.l6(new A.aja(A.aW(a,null,t.w).w.a.a),null),null)}}
 A.aja.prototype={
-$2(a,b){var s="Videobaluns",r=null,q="Los videobaluns permiten la transmisi\xf3n de se\xf1ales de video a trav\xe9s de cables UTP, garantizando una se\xf1al clara y estable a larga distancia.",p=this.a,o=t.p
-if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT("assets/images/22.webp",B.aV,p*0.3,p*0.4)),B.dN,A.eX(A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,p*0.05,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p*0.04,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.V,B.t,B.w))],o),B.S,B.t,B.w)
-else return A.cf(A.b([A.kG(A.e9(8),A.dT("assets/22.webp",B.aV,p*0.5,p*0.8)),B.aD,A.cf(A.b([A.bx(s,r,r,r,A.bB(r,r,B.l,r,r,r,r,r,r,r,r,p*0.06,r,r,B.aj,r,r,!0,r,r,r,r,r,r,r,r),B.af,r),B.aD,A.bx(q,r,r,r,A.bB(r,r,B.aI,r,r,r,r,r,r,r,r,p*0.045,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.af,r)],o),B.V,B.t,B.w)],o),B.S,B.t,B.w)},
+$2(a,b){var s="assets/images/22.webp",r="Videobaluns",q=null,p="Los videobaluns permiten la transmisi\xf3n de se\xf1ales de video a trav\xe9s de cables UTP, garantizando una se\xf1al clara y estable a larga distancia.",o=this.a,n=t.p
+if(b.b>600)return A.fG(A.b([A.kG(A.e9(8),A.dT(s,B.aV,o*0.3,o*0.4)),B.dN,A.eX(A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,o*0.05,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),q,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o*0.04,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q)],n),B.V,B.t,B.w))],n),B.S,B.t,B.w)
+else return A.cf(A.b([A.kG(A.e9(8),A.dT(s,B.aV,o*0.5,o*0.8)),B.aD,A.cf(A.b([A.bx(r,q,q,q,A.bB(q,q,B.l,q,q,q,q,q,q,q,q,o*0.06,q,q,B.aj,q,q,!0,q,q,q,q,q,q,q,q),B.af,q),B.aD,A.bx(p,q,q,q,A.bB(q,q,B.aI,q,q,q,q,q,q,q,q,o*0.045,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.af,q)],n),B.V,B.t,B.w)],n),B.S,B.t,B.w)},
 $S:80}
 A.a1G.prototype={}
 A.a7A.prototype={}
