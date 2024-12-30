@@ -83932,7 +83932,7 @@ $0(){A.aAP(this.a,"/kit_8",t.X)},
 $S:0}
 A.u6.prototype={
 H(a){var s=A.ar(a,null,t.w).w
-return A.qB(A.ays(A.a3(a).ax.b,B.TI),null,A.qR(new A.eu(new A.a8i("assets/images/1.webp",s.a.a),null),B.az))}}
+return A.qB(A.ays(A.a3(a).ax.b,B.TH),null,A.qR(new A.eu(new A.a8i("assets/images/1.webp",s.a.a),null),B.az))}}
 A.a8i.prototype={
 $2(a,b){var s=this.a,r=t.p,q=this.b*0.8
 if(b.b>800)return A.aT(A.b([A.cm(A.b([A.bP(s,B.T,q,q),B.Ot,B.F3],r),B.u,B.hD,B.n),B.V,B.n8,B.V,B.lJ,B.V,B.nD,B.V,B.mf,B.V,B.nB,B.V,B.mZ,B.V,B.lB,B.V,B.nz,B.V,B.Ac,B.V,B.lP,B.V,B.md,B.V,B.us,B.V,B.y7,B.V,B.nx,B.V,B.ug,B.V,B.oa],r),B.u,B.l,B.n)
@@ -84199,7 +84199,7 @@ H(a){var s=null,r=A.hh(s,s,B.cE,s,s,s,s,s,s,B.j,s,B.zj,B.nb,s,s,s,s,s,s)
 return A.f6(A.aa(this.a.c,s,s,s,B.ii,s,s),this.gad_(),r)}}
 A.adu.prototype={
 $1(a){var s=null,r=t.p,q=this.a
-return A.az9(A.qR(new A.bL(B.az,A.aT(A.b([A.cm(A.b([A.cm(A.b([A.bP("assets/images/1.webp",B.cv,30,30),B.zk,B.A1],r),B.u,B.l,B.n),A.l8(s,s,B.nL,s,s,new A.adq(a),s,s,s)],r),B.u,B.k1,B.n),B.zn,B.TP,B.C,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.d,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Nombre",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.e,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Tel\xe9fono",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.ib,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.f,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Direcci\xf3n",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.r,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Barrio",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.w,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Ciudad",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.C,new A.eu(new A.adr(q),s),B.C,B.TF,B.C,A.aiZ(B.zY,new A.ads(a),s)],r),B.t,B.l,B.da),s),s),B.na)},
+return A.az9(A.qR(new A.bL(B.az,A.aT(A.b([A.cm(A.b([A.cm(A.b([A.bP("assets/images/1.webp",B.cv,30,30),B.zk,B.A1],r),B.u,B.l,B.n),A.l8(s,s,B.nL,s,s,new A.adq(a),s,s,s)],r),B.u,B.k1,B.n),B.zn,B.TO,B.C,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.d,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Nombre",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.e,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Tel\xe9fono",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.ib,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.f,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Direcci\xf3n",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.r,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Barrio",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.w,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Ciudad",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.C,new A.eu(new A.adr(q),s),B.C,B.TE,B.C,A.aiZ(B.zY,new A.ads(a),s)],r),B.t,B.l,B.da),s),s),B.na)},
 $S:209}
 A.adq.prototype={
 $0(){return A.dn(this.a,!1).cN()},
@@ -84505,7 +84505,7 @@ H(a){var s=null,r=A.hh(s,s,B.cE,s,s,s,s,s,s,B.j,s,B.zj,B.nb,s,s,s,s,s,s)
 return A.f6(A.aa(this.a.c,s,s,s,B.ii,s,s),this.gaeO(),r)}}
 A.adt.prototype={
 $1(a){var s=null,r=t.p,q=this.a
-return A.az9(A.qR(new A.bL(B.az,A.aT(A.b([A.cm(A.b([A.cm(A.b([A.bP("assets/images/1.webp",B.cv,30,30),B.zk,B.A1],r),B.u,B.l,B.n),A.l8(s,s,B.nL,s,s,new A.adn(a),s,s,s)],r),B.u,B.k1,B.n),B.zn,B.TN,B.C,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.d,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Nombre",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.e,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Tel\xe9fono",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.ib,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.f,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Direcci\xf3n",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.r,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Ciudad y Barrio",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,B.C,new A.eu(new A.ado(q),s),B.C,B.TE,B.C,A.aiZ(B.zY,new A.adp(a),s)],r),B.t,B.l,B.da),s),s),B.na)},
+return A.az9(A.qR(new A.bL(B.az,A.aT(A.b([A.cm(A.b([A.cm(A.b([A.bP("assets/images/1.webp",B.cv,30,30),B.zk,B.A1],r),B.u,B.l,B.n),A.l8(s,s,B.nL,s,s,new A.adn(a),s,s,s)],r),B.u,B.k1,B.n),B.zn,B.TP,B.C,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.d,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Nombre",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.e,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Tel\xe9fono",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.ib,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.f,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Direcci\xf3n",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,A.lL(!0,B.b3,!1,s,!0,B.x,s,A.oB(),q.r,s,s,s,s,s,2,A.iR(s,new A.e4(4,B.bk,B.bW),s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Ciudad y Barrio",!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.P,!0,s,!0,s,!1,s,B.bi,s,s,s,B.b6,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.aP,s,s,B.b8,B.b1,s,s,s,s,s,s,s,!0,B.a7,s,B.c4,s,s,s,s),B.ch,B.C,new A.eu(new A.ado(q),s),B.C,B.TM,B.C,A.aiZ(B.zY,new A.adp(a),s)],r),B.t,B.l,B.da),s),s),B.na)},
 $S:209}
 A.adn.prototype={
 $0(){return A.dn(this.a,!1).cN()},
@@ -90666,16 +90666,16 @@ B.co=new A.ep(10,"container")
 B.Hl=A.b(s([B.aB,B.aL,B.ad,B.aY,B.aZ,B.b_,B.a9,B.aG,B.bV,B.c5,B.co]),A.au("z<ep>"))
 B.Ie=new A.n6("en","US")
 B.o2=A.b(s([B.Ie]),t.ss)
-B.TM=new A.dd("Monitoreo en tiempo real desde tu m\xf3vil",null,null,null,null,null,null,null,null)
-B.Go=new A.n4(B.TM,null)
-B.TH=new A.dd("Notificaciones instant\xe1neas de detecci\xf3n de movimiento",null,null,null,null,null,null,null,null)
-B.Gn=new A.n4(B.TH,null)
-B.TO=new A.dd("Grabaci\xf3n en alta definici\xf3n 1080p",null,null,null,null,null,null,null,null)
-B.Gr=new A.n4(B.TO,null)
-B.TG=new A.dd("Almacenamiento seguro en la nube",null,null,null,null,null,null,null,null)
-B.Gq=new A.n4(B.TG,null)
-B.TL=new A.dd("F\xe1cil instalaci\xf3n y configuraci\xf3n",null,null,null,null,null,null,null,null)
-B.Gp=new A.n4(B.TL,null)
+B.TL=new A.dd("Monitoreo en tiempo real desde tu m\xf3vil",null,null,null,null,null,null,null,null)
+B.Go=new A.n4(B.TL,null)
+B.TG=new A.dd("Notificaciones instant\xe1neas de detecci\xf3n de movimiento",null,null,null,null,null,null,null,null)
+B.Gn=new A.n4(B.TG,null)
+B.TN=new A.dd("Grabaci\xf3n en alta definici\xf3n 1080p",null,null,null,null,null,null,null,null)
+B.Gr=new A.n4(B.TN,null)
+B.TF=new A.dd("Almacenamiento seguro en la nube",null,null,null,null,null,null,null,null)
+B.Gq=new A.n4(B.TF,null)
+B.TK=new A.dd("F\xe1cil instalaci\xf3n y configuraci\xf3n",null,null,null,null,null,null,null,null)
+B.Gp=new A.n4(B.TK,null)
 B.o3=A.b(s([B.Go,B.Gn,B.Gr,B.Gq,B.Gp]),t.p)
 B.VD=new A.lV(0,0)
 B.VI=new A.lV(1,0.05)
@@ -92098,10 +92098,10 @@ B.Oz=new A.kc(3,"hide")
 B.X2=new A.kc(4,"remove")
 B.zq=new A.kc(5,"timeout")
 B.OA=new A.v9(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.TK=new A.dd("\xa1Compra confirmada y datos guardados!",null,null,null,null,null,null,null,null)
-B.zr=new A.nE(B.TK,null,null,null,null,null,null,null,null,null,null,null,null,B.dC,null,null,null,B.x,null)
-B.TJ=new A.dd("\xa1Formulario enviado y datos guardados!",null,null,null,null,null,null,null,null)
-B.zs=new A.nE(B.TJ,null,null,null,null,null,null,null,null,null,null,null,null,B.dC,null,null,null,B.x,null)
+B.TJ=new A.dd("\xa1Compra confirmada y datos guardados!",null,null,null,null,null,null,null,null)
+B.zr=new A.nE(B.TJ,null,null,null,null,null,null,null,null,null,null,null,null,B.dC,null,null,null,B.x,null)
+B.TI=new A.dd("\xa1Formulario enviado y datos guardados!",null,null,null,null,null,null,null,null)
+B.zs=new A.nE(B.TI,null,null,null,null,null,null,null,null,null,null,null,null,B.dC,null,null,null,B.x,null)
 B.zt=new A.CD(0,"permissive")
 B.OB=new A.CD(1,"normal")
 B.OC=new A.CD(2,"forced")
@@ -92482,15 +92482,15 @@ B.TD=new A.dI(B.Ro,B.Qr,B.Rp,B.S0,B.Q5,B.Qc,B.QL,B.RN,B.QZ,B.Sy,B.Pz,B.PU,B.St,B
 B.zV=new A.o(!0,null,null,null,null,null,16,B.E,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.zW=new A.dd("Usted se encuentra en el proceso de compra. Por favor diligencie el formulario con su direcci\xf3n, barrio y ciudad para hacer llegar su pedido a la puerta de su casa.",null,B.zV,B.a7,null,B.aV,2,null,null)
 B.ih=new A.o(!0,B.ue,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.TE=new A.dd("Los pedidos se entregan en los siguientes horarios:\n\nDe lunes a viernes: de 8:00 a.m. a 6:00 p.m. (jornada continua).\nS\xe1bados: de 8:00 a.m. a 1:00 p.m.\nDomingos y festivos no hacemos entregas.\n\nRecibimos pagos en efectivo, Nequi o Bancolombia.",null,B.ih,null,null,null,null,null,null)
-B.TF=new A.dd("Los pedidos se entregan en los siguientes horarios:\n\nDe lunes a viernes: de 8:00 a.m. a 6:00 p.m. (jornada continua).\nS\xe1bados: de 8:00 a.m. a 1:00 p.m.\nDomingos y festivos no hacemos entregas.\n\nPor favor, confirme su compra para garantizar la entrega inmediata.",null,B.ih,null,null,null,null,null,null)
+B.TE=new A.dd("Los pedidos se entregan en los siguientes horarios:\n\nDe lunes a viernes: de 8:00 a.m. a 6:00 p.m. (jornada continua).\nS\xe1bados: de 8:00 a.m. a 1:00 p.m.\nDomingos y festivos no hacemos entregas.\n\nPor favor, confirme su compra para garantizar la entrega inmediata.",null,B.ih,null,null,null,null,null,null)
 B.zX=new A.dd("WhatsApp",null,null,null,null,null,null,null,null)
 B.zY=new A.dd("Cerrar",null,null,null,null,null,null,null,null)
-B.TI=new A.dd("Kit de c\xe1maras de seguridad contra entrega en Bucaramanga",null,null,null,null,null,null,null,null)
-B.TN=new A.dd('Por favor, complete los datos del formulario para que podamos hacer llegar el pedido a su domicilio. El pago es contra entrega ("p\xe1guelo cuando lo tenga en sus manos") por un valor total de $600,000, sin costo de domicilio. La entrega es inmediata una vez confirme su compra, siempre y cuando haya existencias disponibles. El pedido se entrega en un m\xe1ximo de 2 horas, \xfanicamente para Bucaramanga y su \xe1rea metropolitana. Realizamos una llamada de confirmaci\xf3n para verificar la direcci\xf3n y la disponibilidad de equipos. Por favor, confirme su compra para garantizar la entrega inmediata.',null,B.ih,null,null,null,null,null,null)
+B.TH=new A.dd("Kit de c\xe1maras de seguridad contra entrega en Bucaramanga",null,null,null,null,null,null,null,null)
+B.TM=new A.dd("Entrega de equipos en los siguientes horarios:\n\nDe lunes a viernes: de 8:00 a.m. a 6:00 p.m. (jornada continua).\nS\xe1bados: de 8:00 a.m. a 1:00 p.m.\nDomingos y festivos no hacemos entregas.\n\nRecibimos pagos en efectivo, Nequi o Bancolombia.",null,B.ih,null,null,null,null,null,null)
 B.zZ=new A.dd("Llamar al 3046615865",null,null,null,null,null,null,null,null)
 B.A_=new A.dd("Ir al Kit 8",null,null,null,null,null,null,null,null)
-B.TP=new A.dd('Por favor, complete los datos del formulario para que podamos hacer llegar el pedido a su domicilio. El pago es contra entrega ("p\xe1guelo cuando lo tenga en sus manos") por un valor total de $600,000, sin costo de domicilio. La entrega es inmediata una vez confirme su compra, siempre y cuando haya existencias disponibles. El pedido se entrega en un m\xe1ximo de 2 horas, \xfanicamente para Bucaramanga y su \xe1rea metropolitana. Realizamos una llamada de confirmaci\xf3n para verificar la direcci\xf3n y la disponibilidad de equipos. Recibimos pagos en efectivo, Nequi o Bancolombia.',null,B.ih,null,null,null,null,null,null)
+B.TO=new A.dd('Por favor, complete los datos del formulario para que podamos hacer llegar el pedido a su domicilio. El pago es contra entrega ("p\xe1guelo cuando lo tenga en sus manos") por un valor total de $600,000, sin costo de domicilio. La entrega es inmediata una vez confirme su compra, siempre y cuando haya existencias disponibles. El pedido se entrega en un m\xe1ximo de 2 horas, \xfanicamente para Bucaramanga y su \xe1rea metropolitana. Realizamos una llamada de confirmaci\xf3n para verificar la direcci\xf3n y la disponibilidad de equipos. Recibimos pagos en efectivo, Nequi o Bancolombia.',null,B.ih,null,null,null,null,null,null)
+B.TP=new A.dd("Por favor, complete los datos del formulario para que podamos hacer llegar el pedido a su domicilio. El pago es contra entrega \xfanicamente para Bucaramanga y su \xe1rea metropolitana, por un valor total de $600,000, \xa1domicilio gratis! La entrega es inmediata, siempre y cuando haya existencias disponibles. pedidos en un m\xe1ximo de 3 horas en la puerta de su casa. Realizamos una llamada de confirmaci\xf3n para verificar la direcci\xf3n y la disponibilidad de los equipos. Por favor, confirme su compra para garantizar la entrega inmediata.",null,B.ih,null,null,null,null,null,null)
 B.RI=new A.o(!0,B.J,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.A0=new A.dd('Nota importante: Haremos una llamada para confirmar el env\xedo de las c\xe1maras. El domicilio es sin costo, el pago es contraentrega, y por favor aseg\xfarese de contar con el dinero antes de presionar "Comprar". Entregamos los equipos probados en el lugar, siempre y cuando haya conexi\xf3n a energ\xeda.',null,B.RI,B.D,null,null,null,null,null)
 B.A1=new A.dd("Formulario De Compra",null,B.zV,null,null,null,null,null,null)
